@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|c:\\users\\pc\\documents\\miniecommerce\\miniecommerce.products.webapi\\dtos\\changeproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8660B2B8-1F76-4CD9-A4F0-3F625ECE13E3}|MiniECommerce.Products.WebAPI.csproj|solutionrelative:dtos\\changeproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:39:06.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T06:21:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T06:21:30.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T06:16:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Dtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Dtos\\CreateProductDto.cs",
+              "RelativeToolTip": "Dtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:09:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangeProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Dtos\\ChangeProductDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ChangeProductDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\MiniECommerce\\MiniECommerce.Products.WebAPI\\Dtos\\ChangeProductDto.cs",
+              "RelativeToolTip": "Dtos\\ChangeProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:09:50.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
