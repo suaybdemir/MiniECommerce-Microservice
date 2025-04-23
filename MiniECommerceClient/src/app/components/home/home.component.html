@@ -1,0 +1,28 @@
+<div class="text-center mt-4">
+    <h1>Main Page</h1>
+</div>
+
+
+
+<div class="mt-4">
+    <div class="row">
+        @for(product of products(); track product.id)
+        {
+            <div class="col-md-4 col-12 mt-2 h-100">
+                <div class="card d-flex flex-column h-100">
+                    <div class="card-header text-center">
+                        <img src="https://www.mountaingoatsoftware.com/uploads/blog/2016-09-06-what-is-a-product.png" style="width:100%;">
+                        <div class="text-center h-100 mt-2">
+                            <h5>{{product.name}}</h5>
+                            <p>Stock Quantity : {{product.stock}}</p>
+                            <p>Price : {{product.price}}</p>
+                        </div>
+                        
+                        <button (click)="addShoppingCart(product)" class="btn btn-success w-100 mt-1">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

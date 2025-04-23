@@ -1,0 +1,23 @@
+<div class="mt-4">
+    <flexi-grid
+        [data]="orders()"
+        [pageable]="true"
+        [sortable]="true"
+        [resizable]="true"
+        [showCaption]="true"
+        [filterable]="true"
+        captionTitle="Order List"
+        [showIndex]="true"
+        >
+            <flexi-grid-column title="Name" width="55%" field="productName"></flexi-grid-column>
+            <flexi-grid-column title="Price" width="15%" textAlign="right" field="productPrice"></flexi-grid-column>
+            <flexi-grid-column title="Quantity" width="15%" textAlign="center" field="quantity"></flexi-grid-column>
+            <flexi-grid-column title="Total Price" width="15%" textAlign="center" field="totalPrice">
+            </flexi-grid-column>
+            <flexi-grid-column title="Delete">
+                <button class="btn btn-outline-danger">Delete</button>
+            </flexi-grid-column>
+    </flexi-grid>
+</div>
+
+
